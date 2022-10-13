@@ -1,1 +1,3 @@
 # Traffic-Sign-Detection-and-Recognition
+
+In a Driving Assistance System (ADAS), one of the main system checks is to find and recognize the road signs shown on the road to assist the driver ahead. This research paper aims to find traffic signs primary features and label them as well as focuses on recognizing them in oncoming traffic symbols and develop a Traffic Sign Recognition (TSR) system by performing image recognition and identifying the sign recognized using different filters and shapes, patterns etc. This research will also cover a comparative study on FNN, CNN and SVM to find which among them recognizes in less time and has high accuracy.
